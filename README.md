@@ -100,17 +100,20 @@ Lukas Lescano
 
 **Group members completing elective:**
 
-[delete this line and enter your own text here]
+Lukas Lescano, Garrett Mellinger
 
 **Elective idea:**
 
-[delete this line and enter your own text here]
+Photo Journal of each transects
 
 **Elective timeline (what you will have completed each week):**
 
-Week 7: enter your own text here
+Week 7: 
+- Sunday 5/17 - Finalize ideas for analysis and background 
+AND complete plan for elective and draft of idea
 
 Week 8 (timeline check in): enter your own text here
+- Wednesday 5/20
 
 Week 9: enter your own text here
 
