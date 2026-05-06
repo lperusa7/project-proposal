@@ -25,7 +25,7 @@ Note:
 
 ## Group members
 
-[delete this line and enter your names here]
+Lukas Lescano, Garrett Mellinger, Minh Tri Ngo
 
 ## Group name (optional):
 
@@ -35,21 +35,29 @@ Note:
 
 **Topic:**  
 
-[delete this line and enter your topic here]
+Vegetation
 
 **Question(s):**  
 
-[delete this line and enter your bullet point list here]
+- How does the percent cover of native grasses (i.e. Stipa Pulchra) vary over time 
+compared to the percent cover of exotic vegetation on the NCOS Mesa (Perennial Grasslands)?
+- How does intentional disturbance(i.e. Fall 2023 Prescribed Burn and Fall 2024 
+Rotational Sheep Grassing) influence this relationship?
 
 **Response variable(s)**
 
-[delete this line and enter your bullet point list here]
+- Native grasses percent cover
+- Nonnative species percent cover
+- Stipa pulchra percent cover
 
 ## Datasets
 
 **Datasets used:**
 
-[delete this line and enter your bullet point list here]
+- vegetation
+- metadata
+- weather
+
 
 ## Figures
 
@@ -77,15 +85,15 @@ Note:
 
 **Natural history/framing director:**
 
-[delete this line and enter your own text here]
+Garrett Mellinger
 
 **Stats and visualization director**
 
-[delete this line and enter your own text here]
+Minh Tri Ngo
 
 **GitHub/code director**
 
-[delete this line and enter your own text here]
+Lukas Lescano
 
 
 ## Elective (not required for all groups or group members)
