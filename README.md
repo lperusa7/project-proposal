@@ -109,21 +109,35 @@ Photo Journal of each transects
 **Elective timeline (what you will have completed each week):**
 
 Week 7: 
+- Thursday 5/14 - Finish the project proposal; go over with group members and submit it
+- **Friday 5/15 - due date for the project proposal**
 - Sunday 5/17 - Finalize ideas for analysis and background 
 AND complete plan for elective and draft of idea
 
-Week 8 (timeline check in): enter your own text here
-- Wednesday 5/20
+Week 8 (timeline check in): 
+- Wednesday 5/20 - 
+1: complete exploratory data analysis code and interpretation of the exploratory visualizations. 
+2: get close to a complete final draft for the timeline check-in, and have every group member review it before submission 
+3. get close to a complete final draft for elective timeline check-in (plan for completion and draft or outline of the idea) and have every group member review it before submission
 
-Week 9: enter your own text here
-
-Week 10: enter your own text here
-
-Finals week: enter your own text here
-
-
+- Thursday 5/21 - we plan to have the project timeline check-in and elective timeline check-in completed a day before the due date
+- **Friday 5/22 - due date for project timeline check-in and elective** 
 
 
+Week 9:
+- Thursday 5/28 - we plan to have the literature dissection done and plan to review it with group members and submit it on this day
+- **Friday 5/29 - due date for literature dissection**
+- Saturday 5/30 - plan to have project presentation done and review it with group members to be prepared for the presentation peer review in class on the following Monday.
 
-
+Week 10:
+- **Monday 6/1 - due date for project presentation to be ready for in-class peer review**
+- Tuesday 6/2 - meet with group and review feedback, make changes to presentation, and practice delivery of presentation
+- **Wednesday 6/3 - final presentation due date for in-class presentations**
+- Friday 6/5 - meet with group and finalize advanced elective
+- Saturday 6/6 - meet with group and discuss project paper and assign roles. Work on completing project paper throughout the weekend
+Finals week:
+- Tuesday 6/9 - meet with group, revisee project paper, finalize edits and submit
+- **Wednesday 6/10 - due date for the final project paper**
+- **Wednesday 6/10 - due date for the advanced elective**
+- **Wednesday 6/10 - due date for peer self-evaluation**
 
