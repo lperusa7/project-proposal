@@ -89,22 +89,24 @@ Garrett Mellinger
 
 **Stats and visualization director**
 
-Minh Tri Ngo
+Lukas Lescano
 
 **GitHub/code director**
 
-Lukas Lescano
+Minh Tri Ngo
 
 
 ## Elective (not required for all groups or group members)
 
 **Group members completing elective:**
 
-Lukas Lescano, Garrett Mellinger
+Lukas Lescano, Garrett Mellinger, Minh Tri Ngo
 
 **Elective idea:**
 
 Photo Journal of each transects
+Film presenting vegetation at NCOS
+ArcGIS visualization of landscape percent cover differences
 
 **Elective timeline (what you will have completed each week):**
 
