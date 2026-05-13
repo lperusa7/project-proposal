@@ -61,19 +61,19 @@ compared to the percent cover of exotic vegetation on the NCOS Mesa (Perennial G
 
 **Potential figure 1:**
 
-![Potential figure 1](../figures/figure_1.jpg)
+![Potential figure 1](figures/figure_1.jpg)
 
 **Potential figure 2:**
 
-![Potential figure 2](../figures/figure_2.jpg)
+![Potential figure 2](figures/figure_2.jpg)
 
 **Potential figure 3:**
 
-![Potential figure 3](../figures/figure_3.jpg)
+![Potential figure 3](figures/figure_3.jpg)
 
 **Potential figure 4**
 
-![Potential figure 4](../figures/figure_4.jpg)
+![Potential figure 4](figures/figure_4.jpg)
 
 ## Data cleaning/wrangling/summarizing plan
 
