@@ -41,14 +41,16 @@ Vegetation
 
 - How does the percent cover of native grasses (i.e. Stipa Pulchra) vary over time 
 compared to the percent cover of exotic vegetation on the NCOS Mesa (Perennial Grasslands)?
-- How does intentional disturbance(i.e. Fall 2023 Prescribed Burn and Fall 2024 
-Rotational Sheep Grassing) influence this relationship?
+    - How does intentional disturbance(i.e. Fall 2023 Prescribed Burn and Fall 2024 
+    Rotational Sheep Grassing) influence this relationship?
 
 **Response variable(s)**
 
 - Native grasses percent cover
 - Nonnative species percent cover
 - Stipa pulchra percent cover
+- Melilotus indicus percent cover
+- Medicago polymorpha percent cover
 
 ## Datasets
 
