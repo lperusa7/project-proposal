@@ -27,10 +27,6 @@ Note:
 
 Lukas Lescano, Garrett Mellinger, Minh Tri Ngo
 
-## Group name (optional):
-
-[delete this line and enter your group name here; if you don't have one, delete the whole section]
-
 ## Topic information and question
 
 **Topic:**  
