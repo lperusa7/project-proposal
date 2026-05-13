@@ -61,19 +61,19 @@ compared to the percent cover of exotic vegetation on the NCOS Mesa (Perennial G
 
 **Potential figure 1:**
 
-[delete this line and enter your figure here]
+![Potential figure 1](../figures/figure_1.jpg)
 
 **Potential figure 2:**
 
-[delete this line and enter your figure here; if you don't have one, delete the entire section]
+![Potential figure 2](../figures/figure_2.jpg)
 
 **Potential figure 3:**
 
-[delete this line and enter your figure here; if you don't have one, delete the entire section]
+![Potential figure 3](../figures/figure_3.jpg)
 
 **Potential figure 4**
 
-[delete this line and enter your figure here; if you don't have one, delete the entire section]
+![Potential figure 4](../figures/figure_4.jpg)
 
 ## Data cleaning/wrangling/summarizing plan
 
@@ -140,7 +140,7 @@ Week 10:
 - Friday 6/5 - meet with group and finalize advanced elective
 - Saturday 6/6 - meet with group and discuss project paper and assign roles. Work on completing project paper throughout the weekend
 Finals week:
-- Tuesday 6/9 - meet with group, revisee project paper, finalize edits and submit
+- Tuesday 6/9 - meet with group, revised project paper, finalize edits and submit
 - **Wednesday 6/10 - due date for the final project paper**
 - **Wednesday 6/10 - due date for the advanced elective**
 - **Wednesday 6/10 - due date for peer self-evaluation**
