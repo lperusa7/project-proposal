@@ -81,7 +81,11 @@ compared to the percent cover of exotic vegetation on the NCOS Mesa (Perennial G
 
 ## Data cleaning/wrangling/summarizing plan
 
-[delete this line and enter your own text here]
+- create new object for target_species
+- filter by transect name (GL) (filtering to grasslands)
+- filter to ncos
+- filter out "exclude others list" (this list includes: shrubs, trees, bare ground, rocks, unlisted, sedges/rushes)
+- filter out native forbs
 
 ## Project roles
 
